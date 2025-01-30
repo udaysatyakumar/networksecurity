@@ -28,4 +28,4 @@ sudo usermod -aG docker ubuntu
 
 newgrp docker
 
-This was the updated deployment changes
+This was the updated deployment changes and it works fine
